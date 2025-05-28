@@ -1,5 +1,4 @@
 import Card from "./Card.jsx"
-import Button from "./Button.jsx";
 import Profile from "./Profiles.jsx"
 import vic from "./assets/victorhugo.jpg"
 import lo from "./assets/leandro.jpg"
