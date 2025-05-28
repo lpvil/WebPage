@@ -1,7 +1,7 @@
 body{
   background-color: rgba(0, 0, 0, 0.874);
 }
-.card{
+.profile{
   border: 2px solid black;
   border-radius: 12px;
   box-shadow: 5px 5px 5px black;
@@ -12,28 +12,28 @@ body{
   cursor: pointer;
   background-color: white;
 }
-.card .roman{
+.profile .roman{
   max-width: 60%;
   height: auto;
   border-radius: 50%;
   margin-bottom: 10px;
   
 }
-.card .card-title{
+.profile .card-title{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   color: black;
 }
-.card .card-text{
+.profile .card-text{
   font-family: Arial, Helvetica, sans-serif;
   color:rgb(0, 0, 0);
 }
-.card .profpic{
+.profile .profpic{
   max-width: 60%;
   height: auto;
   border-radius: 50%;
   margin-bottom: 10px;
 }
-.card:active{
+.profile:active{
   transform: scale(.9);
 }
