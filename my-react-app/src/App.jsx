@@ -1,4 +1,4 @@
-import Card from "./Card.jsx"
+
 import Profile from "./Profiles.jsx"
 import vic from "./assets/victorhugo.jpg"
 import lo from "./assets/leandro.jpg"
