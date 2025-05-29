@@ -1,4 +1,3 @@
-
 import Profile from "./Profiles.jsx"
 import vic from "./assets/victorhugo.jpg"
 import lo from "./assets/leandro.jpg"
@@ -6,6 +5,7 @@ import gord from "./assets/gord.jpg"
 import creg from "./assets/creg.webp"
 import giles from "./assets/giles.png"
 import me from "./assets/me.jpg"
+import Home from "./ProfileHomes.jsx"
 
 function App() {
   

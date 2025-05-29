@@ -1,5 +1,7 @@
+import { useNavigate } from "react-router-dom"
 
 function Profile(props){
+
     return(
         
         <div className="profile">
