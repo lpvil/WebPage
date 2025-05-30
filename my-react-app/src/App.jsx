@@ -6,6 +6,12 @@ import creg from "./assets/creg.webp"
 import giles from "./assets/giles.png"
 import me from "./assets/me.jpg"
 import Home from "./ProfileHomes.jsx"
+import NoPage from "./Pages/noPage.jsx"
+import { createBrowserRouter, RouterProvider } from "react-router-dom"
+
+const router = createBrowserRouter([{
+
+}]);
 
 function App() {
   
