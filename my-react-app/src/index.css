@@ -37,3 +37,12 @@ body{
 .profile:active{
   transform: scale(.9);
 }
+.eventInfo{
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+}
