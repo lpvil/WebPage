@@ -8,6 +8,7 @@ body{
   background-attachment: fixed;
 }
 .profile{
+  display: inline-table;
   border: 2px solid black;
   border-radius: 12px;
   box-shadow: 5px 5px 5px black;
@@ -17,6 +18,7 @@ body{
   max-width: 250px;
   cursor: pointer;
   background-color: white;
+  opacity: 90%;
 }
 .profile .roman{
   max-width: 60%;
@@ -52,4 +54,31 @@ body{
   margin-right: 5%;
   padding: 10px;
   opacity: 80%;
+}
+.eventInfo p{
+  text-align: center;
+}
+.navbar{
+  margin-top: 0%;
+  background-color: black;
+  color: white;
+}
+.navbar .bar ul{
+  list-style-type: none;
+  margin-bottom: 5%;
+  padding: 10px;
+  height: auto;
+}
+li{
+  display: inline;
+  height: auto;
+  padding:10px;
+  background-color: rgb(56, 56, 56);
+}
+li:hover{
+  background-color: white;
+  color: black;
+  height: auto;
+  padding: 10px;
+  cursor: pointer;
 }

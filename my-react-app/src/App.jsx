@@ -17,6 +17,15 @@ function App() {
   
   return(    
     <>
+    <div className="navbar">
+      <nav className="bar">
+        <ul>
+           <li><a>Home </a></li>
+           <li><a>About </a></li>
+           <li><a>Contact us</a></li>
+        </ul>
+       </nav>
+    </div><br></br>
     <div className="eventInfo">
       <h1>CJI 2025</h1>
         <p>
