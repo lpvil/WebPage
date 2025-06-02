@@ -62,12 +62,14 @@ body{
   margin-top: 0%;
   background-color: black;
   color: white;
+  position:sticky;
 }
 .navbar .bar ul{
   list-style-type: none;
   margin-bottom: 5%;
   padding: 10px;
   height: auto;
+
 }
 li{
   display: inline;

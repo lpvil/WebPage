@@ -7,6 +7,7 @@ import giles from "./assets/giles.png"
 import me from "./assets/me.jpg"
 import Home from "./ProfileHomes.jsx"
 import NoPage from "./Pages/noPage.jsx"
+import cji from "./assets/cji.webp"
 //import { createBrowserRouter, RouterProvider } from "react-router-dom"
 
 //const router = createBrowserRouter([{
@@ -25,9 +26,9 @@ function App() {
            <li><a>Contact us</a></li>
         </ul>
        </nav>
-    </div><br></br>
+    </div>
     <div className="eventInfo">
-      <h1>CJI 2025</h1>
+      <img src={cji} alt="cji image"></img>
         <p>
           The Craig Jones Invitational is the newest grappling event to come into the scene. Spawned from a bit of pettyness and troll like antics, CJI was born and is quickly becoming one of the most entertainig events in grappling to date.
           Coming back for their second year after a successfull event the year prior, many are fevershly waiting for the event to release tickets. With this event focusing on bringing the best of the best in the grappling world, It will surely be
