@@ -10,7 +10,7 @@ body{
 .mainbody{
   display: block;
   background-color: black;
-  opacity: 90%;
+  opacity: 89%;
   margin-top: 20px;
   margin-left: 5%;
   margin-right: 5%;
@@ -23,7 +23,7 @@ body{
   display: inline-table;
   border: 2px solid black;
   border-radius: 12px;
-  box-shadow: 5px 5px 5px black;
+  box-shadow: 5px 5px 5px rgb(101, 101, 101);
   padding: 20px;
   margin: 10px;
   text-align: center;
