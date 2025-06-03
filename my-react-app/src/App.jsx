@@ -38,7 +38,6 @@ function App() {
     </div>
     <div className="mainbody">
       <h2>The Teams</h2>
-      <Profile profilePic={me} name="Jesus Lopez" descrpt="Hi, I'm Jesus Welcome to my Page"/>
       <Profile profilePic={Bteam} name="B-Team" descrpt="Four-time IBJJF World champion at black belt. Earned his black belt form Saulo and Xande Ribeiro at Six Blades Association" />
       <Profile profilePic={lo} name="Leandro Lo" descrpt="Eight-time IBJJF World Champion in five different weight classes. Earned black belt under Cicero Costha"/>
       <Profile profilePic={gord} name="Gordon Ryan" descrpt="Seven-time ADCC World Champion. Earned his black belt under Gary Tonon. "/>
